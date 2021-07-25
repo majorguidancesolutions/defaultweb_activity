@@ -1,5 +1,7 @@
 This is the critical message that going to be amnded in to the previous commit along with this new file
 
+Commit #04 at Squash Activity
+
 Commit #2 at Squash Activity
 
 Commit #3 at Squash Activity
@@ -7,3 +9,28 @@ Commit #3 at Squash Activity
 Commit #04 at Squash Activity
 
 
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+info.txt [unix] (18:24 25/07/2021)                                                                                 9,1 All
+-- INSERT --
+
