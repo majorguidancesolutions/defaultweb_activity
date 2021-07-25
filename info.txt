@@ -1,4 +1,5 @@
 This is the critical message that going to be amnded in to the previous commit along with this new file
+commit #05 at SquashACtivity
 
 Commit #04 at Squash Activity
 
