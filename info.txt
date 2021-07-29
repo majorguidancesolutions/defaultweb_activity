@@ -1,7 +1,0 @@
-Commit#7 Again Squash
-
-Commit#8 Again Squash
-
-Commit#5 Again Squash
-
-Commit#6 Again Squash
